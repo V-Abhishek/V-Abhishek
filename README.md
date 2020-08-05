@@ -50,7 +50,7 @@ I am a passionate software developer interested in building applications. Curren
 
 ### Infrastructure as Code
 
-<img align="left" alt="AWS" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
+<img align="left" alt="AWS" width="120px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
 <br/>
 <br/>
 <br/>
@@ -60,8 +60,8 @@ I am a passionate software developer interested in building applications. Curren
 
 ### Testing
 
-<img align="left" alt="jmeter" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/jmeter.png" />
-<img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mockito.png" />
+<img align="left" alt="jmeter" width="100px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/jmeter.png" />
+<img align="left" alt="mockito" width="100px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mockito.png" />
 <br/>
 <br/>
 <br/>
