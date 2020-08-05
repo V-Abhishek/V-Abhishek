@@ -23,8 +23,8 @@ I am a passionate software developer interested in building applications. Curren
 
 ### Languages:
 
-<img align="left" alt="HTML5" width="26px" src="images/java.svg" />
-<img align="left" alt="HTML5" width="26px" src="images/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/java.svg" />
+<img align="left" alt="Python" width="26px" src="images/python.png" />
 <img align="left" alt="HTML5" width="26px" src="images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="images/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="images/javascript.png" />
