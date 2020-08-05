@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 ### Hi, I'm Abhishek 👋
 
 I am a passionate software developer interested in building applications. Currently, I am pursuing my Masters in Information Systems from Northeastern University. I enjoy exploring and learning new technologies. Here you will find some of my projects I have worked on and collaborated, to get a better understanding of the technology stacks. 
----
+
+***
 
 ### Languages:
 
