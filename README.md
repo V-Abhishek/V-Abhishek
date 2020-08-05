@@ -95,7 +95,7 @@ I am a passionate software developer interested in building applications. Curren
 
 
 ***
-## Contact
+### Contact
 [<img align="left" alt="LinkedIn" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/linkedin.svg" />][linkedin]
 [<img align="left" alt="gmail" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/gmail.png" />][gmail]
 
