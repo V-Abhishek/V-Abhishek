@@ -29,12 +29,11 @@ I am a passionate software developer interested in building applications. Curren
 <img align="left" alt="JavaScript" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/javascript.png" />
 <img align="left" alt="Node.js" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/nodejs.png" />
 <img align="left" alt="SQL" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/sql.png" />
-<img align="left" alt="MySQL" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mysql.png" />
-<img align="left" alt="MongoDB" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mongodb.png" />
+<img align="left" alt="MySQL" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mysql.png" />
+<img align="left" alt="MongoDB" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mongodb.png" />
 
 <br/>
 <br/>
-
 ### Cloud Computing Platform:
 
 <img align="left" alt="AWS" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/aws.png" />
