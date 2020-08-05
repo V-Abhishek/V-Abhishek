@@ -36,7 +36,7 @@ I am a passionate software developer interested in building applications. Curren
 <br/>
 <br/>
 
----
+
 
 ### Cloud Computing Platform
 
