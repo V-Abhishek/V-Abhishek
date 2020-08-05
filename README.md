@@ -48,11 +48,9 @@ I am a passionate software developer interested in building applications. Curren
 <img align="left" alt="GitHub" width="26px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terminal.png" />
 
-
-
 <br />
 <br />
----
 
+***
 ### Contact with me:
 [<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
