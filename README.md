@@ -20,7 +20,7 @@ I am a passionate software developer interested in building applications. Curren
 
 ***
 
-### Languages:
+### Languages
 
 <img align="left" alt="Java" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/java.svg" />
 <img align="left" alt="Python" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/python.png" />
@@ -33,7 +33,8 @@ I am a passionate software developer interested in building applications. Curren
 <img align="left" alt="MongoDB" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mongodb.png" />
 <br/>
 <br/>
-
+<br/>
+<br/>
 ---
 
 ### Cloud Computing Platform
