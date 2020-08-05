@@ -58,20 +58,22 @@ I am a passionate software developer interested in building applications. Curren
 
 
 
+
 ### Continuous Integration
 
-<img align="left" alt="CircleCI" width="120px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/circleci.png" />
+<img align="left" alt="CircleCI" width="80px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/circleci.png" />
 <br/>
 <br/>
 <br/>
 <br/>
+
 
 
 
 
 ### Golden Image Builder
 
-<img align="left" alt="packer" width="120px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/packer.svg" />
+<img align="left" alt="packer" width="80px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/packer.svg" />
 <br/>
 <br/>
 <br/>
