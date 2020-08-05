@@ -31,21 +31,15 @@ I am a passionate software developer interested in building applications. Curren
 <img align="left" alt="SQL" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/sql.png" />
 <img align="left" alt="MySQL" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mysql.png" />
 <img align="left" alt="MongoDB" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/mongodb.png" />
-
+---
 ### Cloud Computing Platform:
 
 <img align="left" alt="AWS" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/aws.png" />
-
-<br/>
-<br/>
-
-
+---
 ### Infrastructure as Code:
 
 <img align="left" alt="AWS" width="100px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
-
-<br/>
-
+---
 ### Tools:
 
 <img align="left" alt="Netbeans" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/netbeans.svg" />
@@ -54,9 +48,6 @@ I am a passionate software developer interested in building applications. Curren
 <img align="left" alt="Git" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/git.png" />
 <img align="left" alt="GitHub" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/github.png" />
 <img align="left" alt="HTML5" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terminal.png" />
-
-<br />
-<br />
 
 ***
 ### Contact with me:
