@@ -41,16 +41,24 @@ I am a passionate software developer interested in building applications. Curren
 ### Cloud Computing Platform
 
 <img align="left" alt="AWS" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/aws.png" />
+<br/>
+<br/>
+<br/>
+<br/>
 
----
 
-### Infrastructure as Code:
+
+### Infrastructure as Code
 
 <img align="left" alt="AWS" width="90px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
+<br/>
+<br/>
+<br/>
+<br/>
 
----
 
-### Tools:
+
+### Tools
 
 <img align="left" alt="Netbeans" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/netbeans.svg" />
 <img align="left" alt="Visual Studio Code" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/vscode.png" />
