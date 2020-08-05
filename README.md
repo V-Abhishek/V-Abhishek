@@ -1,4 +1,4 @@
-<img align="center" alt="banner" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/banner-unsplash.jpg" />
+<img align="center" alt="banner" height="150px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/banner-unsplash.jpg" />
 
 ### Hi, I'm Abhishek 👋
 
@@ -98,4 +98,5 @@ I am a passionate software developer interested in building applications. Curren
 
 ***
 ### Contact with me:
-[<img align="left" alt="LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/linkedin.svg" />][linkedin]
