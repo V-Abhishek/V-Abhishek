@@ -1,5 +1,3 @@
-<img alt="banner" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/banner-unsplash.jpg" />
-
 ### Hi, I'm Abhishek 👋
 
 I am a passionate software developer interested in building applications. Currently, I am pursuing my Masters in Information Systems from Northeastern University. I enjoy exploring and learning new technologies. Here you will find some of my projects I have worked on and collaborated, to get a better understanding of the technology stacks. 
@@ -97,7 +95,7 @@ I am a passionate software developer interested in building applications. Curren
 
 
 ***
-## Contact with me:
+## Contact
 [<img align="left" alt="LinkedIn" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/linkedin.svg" />][linkedin]
 [<img align="left" alt="gmail" width="50px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/gmail.png" />][gmail]
 
