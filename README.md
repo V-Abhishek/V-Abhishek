@@ -1,4 +1,4 @@
-<img alt="banner" height="250px" width="200px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/banner-unsplash.jpg" />
+<img alt="banner" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/banner-unsplash.jpg" />
 
 ### Hi, I'm Abhishek 👋
 
