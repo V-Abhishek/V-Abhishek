@@ -1,6 +1,6 @@
 ### Hi, I'm Abhishek 👋
 
-I am a passionate software developer interested in building applications. Currently, I am pursuing my Masters in Information Systems from Northeastern University. I enjoy exploring and learning new technologies. Here you will find some of my projects I have worked on and collaborated, to get a better understanding of the technology stacks. 
+I am a passionate software developer interested in building innovative applications and collaboration. I enjoy exploring and learning new technologies. Currently, I am pursuing my Masters in Information Systems from Northeastern University. Here you will find some of my projects I have worked on and collaborated to get a better understanding of the technology stacks. 
 
 ***
 
