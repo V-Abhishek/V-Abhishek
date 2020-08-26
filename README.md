@@ -34,7 +34,7 @@ I am a passionate software developer interested in building innovative applicati
 
 ### Infrastructure as Code
 
-<img align="left" alt="AWS" width="120px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
+<img align="left" alt="terraform" width="120px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terraform.png" />
 <br/>
 <br/>
 <br/>
@@ -85,8 +85,8 @@ I am a passionate software developer interested in building innovative applicati
 <img align="left" alt="Eclipse" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/eclipse.png" />
 <img align="left" alt="Git" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/git.png" />
 <img align="left" alt="GitHub" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/github.png" />
-<img align="left" alt="HTML5" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terminal.png" />
-<img align="left" alt="HTML5" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/postman.png" />
+<img align="left" alt="terminal" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/terminal.png" />
+<img align="left" alt="postman" width="70px" src="https://github.com/v-abhishek/v-abhishek/blob/master/images/postman.png" />
 <br/>
 <br/>
 <br/>
